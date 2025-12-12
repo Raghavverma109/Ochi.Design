@@ -1,12 +1,17 @@
 
 # Ochi.Design — Local Clone (analysis)
 
+[Live demo](https://ochi-design-virid.vercel.app/) — https://ochi-design-virid.vercel.app/
+
+> **Note:** For best visualization open the live demo in a laptop or desktop browser (the layout and large typography are optimized for larger screens).
+
 This repository is a local clone / recreation of the public site https://ochi.design/ and contains React + Vite source used to reproduce layout and several custom animations.
 
 **Quick Links**
 - **App entry:** [src/App.jsx](src/App.jsx)
 - **Render / boot:** [src/main.jsx](src/main.jsx)
 - **Components:** [src/components](src/components) (see below for highlights)
+ - **Live demo:** [https://ochi-design-virid.vercel.app/](https://ochi-design-virid.vercel.app/)
 
 **Purpose of this README**: explain the project structure, call out where the animations live, note implementation details and small bugs, and provide run instructions and improvement suggestions.
 
