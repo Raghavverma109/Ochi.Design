@@ -77,4 +77,4 @@ If you want, I can:
 - Run a quick code sweep to apply the `LocomotiveScroll` initialization fix and the `Eye.jsx` className bug.
 - Extract a shared `usePointerAngle` hook for the mouse-eye logic.
 
-— End of analysis
+— End of analysis..
